@@ -76,9 +76,9 @@ extends: ["airbnb-base"] //for non react project
 ### Adding **`eslint-config-airbnb-typescript`**
 
 ```bash
-npm install eslint-config-airbnb-typescript 
-            @typescript-eslint/eslint-plugin
-            @typescript-eslint/parser
+npm install eslint-config-airbnb-typescript \
+            @typescript-eslint/eslint-plugin \
+            @typescript-eslint/parser \
             --save-dev
 ```
 
