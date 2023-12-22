@@ -1,0 +1,1 @@
+# eslint-setup-react-ts
