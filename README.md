@@ -1,4 +1,4 @@
-# Eslint Setup (React + ts)
+# Eslint Airbnb Setup (React + ts)
 
 ## 01. Create project & setup initial Eslint
 
